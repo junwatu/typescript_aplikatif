@@ -1,6 +1,6 @@
 # Typescript Aplikatif
 
-Repositori latihan dan pemrgoraman TypeScript
+Repositori latihan dan pemrograman TypeScript
 
 ---
 
