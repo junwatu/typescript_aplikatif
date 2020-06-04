@@ -1,4 +1,4 @@
-# Typescript Aplikatif
+# TypeScript Aplikatif
 
 Repositori latihan dan pemrograman TypeScript
 
